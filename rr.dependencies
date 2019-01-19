@@ -1,0 +1,26 @@
+[
+ {
+   "remote": "github",
+   "repository": "MiMax-Pie/android_kernel_xiaomi_msm8956",
+   "target_path": "kernel/xiaomi/msm8956",
+   "branch": "lineage-16.0"
+ },
+  {
+   "remote": "github",
+   "repository": "MiMax-Pie/android_device_xiaomi_msm8956-common",
+   "target_path": "device/xiaomi/msm8956-common",
+   "branch": "lineage-16.0"
+ },
+ {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0"
+},
+ {
+   "remote": "github",
+   "repository": "sarthakmalla/proprietary_vendor_xiaomi",
+   "target_path": "vendor/xiaomi",
+   "branch": "pie"
+ }
+]
